@@ -1,4 +1,4 @@
-# Ticketing (REST API for booking movie tickets)
+# Ticket Booking Application (REST API for booking movie tickets)
 
 ## List of features
 

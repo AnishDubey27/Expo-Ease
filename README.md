@@ -1,4 +1,4 @@
-# Ticketing (REST API for booking movie tickets)
+# Expo-Ease
 
 ## List of features
 
